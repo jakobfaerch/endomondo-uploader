@@ -12,8 +12,10 @@ Install bundler
 
 ```bash
 > gem install bundler
+```
 
 Run the script as
 
 ```bash
 > bundle install&&bundle exec ruby endomondo_upload.rb <path to tcx file>
+```
